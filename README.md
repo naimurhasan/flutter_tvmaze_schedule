@@ -17,6 +17,11 @@ Gets TV show list from internet (tvmaze api) and show it in the ui.
   - TV Show List
   - Search Feature
   - Details Screen
+  
+  ### Credits
+  - TVmaze API
+  - FlatIcon
+  - appicon.co
 
 ## Getting Started
 
