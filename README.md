@@ -10,9 +10,10 @@ List of TV Shows Fetch From TVMaze Api API
 
 ## Description
 
+Gets TV show list from internet (tvmaze api) and show it in the ui.
+
 ![Flutter TVMaze Diagram Naimur Hasan](https://raw.githubusercontent.com/naimurhasan/flutter_tvmaze_schedule/master/_screenshots/flutter_tvmaze_fetch_diagram.jpg)
 
-Gets TV show list from internet (tvmaze api) and show it in the ui.
   ### Features
   - TV Show List
   - Search Feature
